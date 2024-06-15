@@ -2,31 +2,37 @@
     {
         "name": "Heartgard Plus Chewable Tablets",
         "price": 59.99,
-        "description": "Chewable tablet for dogs that prevents heartworm disease and intestinal parasites."
+        "description": "Chewable tablet for dogs that prevents heartworm disease and intestinal parasites.",
+        "imageURL": "https://sadmanyasar.github.io/heartguard.jpeg"
     },
     {
         "name": "Revolution Plus Topical Solution for Cats",
         "price": 74.50,
-        "description": "Topical solution for cats that treats and controls fleas and ear mites."
+        "description": "Topical solution for cats that treats and controls fleas and ear mites.",
+        "imageURL": "https://sadmanyasar.github.io/revolution_plus.jpeg"
     },
     {
         "name": "NexGard Spectra Chewable Tablets for Dogs",
         "price": 82.95,
-        "description": "Broad-spectrum chewable tablet for dogs that treats and controls fleas, ticks and mites."
+        "description": "Broad-spectrum chewable tablet for dogs that treats and controls fleas, ticks and mites.",
+        "imageURL": "https://sadmanyasar.github.io/nexgard.jpg"
     },
     {
         "name": "Clavamox Chewable Tablets",
         "price": 32.50,
-        "description": "Antibiotic medication for dogs and cats to treat a variety of bacterial infections."
+        "description": "Antibiotic medication for dogs and cats to treat a variety of bacterial infections.",
+        "imageURL": "https://sadmanyasar.github.io/clavamox.jpeg"
     },
     {
         "name": "Apoquel Tablets",
         "price": 99.99,
-        "description": "Medication for dogs to control allergic dermatitis (itchy skin) caused by environmental allergies."
+        "description": "Medication for dogs to control allergic dermatitis (itchy skin) caused by environmental allergies.",
+        "imageURL": "https://sadmanyasar.github.io/apoquel.png"
     },
     {
         "name": "Frontline Gold Spot On for Dogs",
         "price": 64.99,
-        "description": "Topical solution for dogs that kills and repels fleas and ticks for several months."
+        "description": "Topical solution for dogs that kills and repels fleas and ticks for several months.",
+        "imageURL": "https://sadmanyasar.github.io/frontline.webp"
     }
 ]
