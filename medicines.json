@@ -29,10 +29,4 @@
         "description": "Medication for dogs to control allergic dermatitis (itchy skin) caused by environmental allergies.",
         "imageURL": "https://sadmanyasar.github.io/apoquel.png"
     },
-    {
-        "name": "Frontline Gold Spot On for Dogs",
-        "price": 64.99,
-        "description": "Topical solution for dogs that kills and repels fleas and ticks for several months.",
-        "imageURL": "https://sadmanyasar.github.io/frontline.webp"
-    }
 ]
