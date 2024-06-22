@@ -1,32 +1,37 @@
 [
     {
         "name": "Heartgard Plus Chewable Tablets",
-        "price": 59.99,
+        "price": 84.00,
         "description": "Chewable tablet for dogs that prevents heartworm disease and intestinal parasites.",
-        "imageURL": "https://sadmanyasar.github.io/heartguard.jpeg"
+        "imageURL": "https://sadmanyasar.github.io/heartguard.jpeg",
+        "productLink": "https://healingpets.online/product/heartgard-plus/"
     },
     {
         "name": "Revolution Plus Topical Solution for Cats",
-        "price": 74.50,
+        "price": 149.00,
         "description": "Topical solution for cats that treats and controls fleas and ear mites.",
-        "imageURL": "https://sadmanyasar.github.io/revolution_plus.jpeg"
+        "imageURL": "https://sadmanyasar.github.io/revolution_plus.jpeg",
+        "productLink": "https://healingpets.online/product/revolution-plus-topical-solution-for-cats-11-1-22-lbs-green-box/"
     },
     {
         "name": "NexGard Spectra Chewable Tablets for Dogs",
-        "price": 82.95,
+        "price": 199.00,
         "description": "Broad-spectrum chewable tablet for dogs that treats and controls fleas, ticks and mites.",
-        "imageURL": "https://sadmanyasar.github.io/nexgard.jpg"
+        "imageURL": "https://sadmanyasar.github.io/nexgard.jpg",
+        "productLink": "https://healingpets.online/product/nexgard-spectra-medium-dogs-7-5-15-kg-3-pack-3/"
     },
     {
         "name": "Clavamox Chewable Tablets",
         "price": 32.50,
         "description": "Antibiotic medication for dogs and cats to treat a variety of bacterial infections.",
-        "imageURL": "https://sadmanyasar.github.io/clavamox.jpeg"
+        "imageURL": "https://sadmanyasar.github.io/clavamox.jpeg",
+        "productLink": "https://www.petsmart.com/pharmacy/cat/antibiotics/clavamox---62.5-mg-125-mg-250-mg-375-mg---single-chewable-tablet-5316698.html"
     },
     {
         "name": "Apoquel Tablets",
         "price": 99.99,
         "description": "Medication for dogs to control allergic dermatitis (itchy skin) caused by environmental allergies.",
-        "imageURL": "https://sadmanyasar.github.io/apoquel.png"
+        "imageURL": "https://sadmanyasar.github.io/apoquel.png",
+        "productLink": "https://www.zoetisus.com/products/dogs/apoquel"
     }
 ]
